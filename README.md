@@ -19,8 +19,10 @@ Contact me
 - Spring, Spring Boot, JDBC, JDBCTemplate, JPA, Querydsl, Mybatis
 - Spring Webflux, R2DBC, R2DBCTemplate, Spring Data R2DBC
 - MySQL, PostgreSQL, Oracle, Redis, Hazelcast
-- Java, Kotlin, Python
+- Java, Kotlin, Javascript, Python
 - Docker, Kubernetes
+- React
+
 <br>
 
 # Overview
