@@ -16,8 +16,8 @@ Contact me
 <br>
 
 # Tech skills
-- Spring, Spring Boot, JDBC, JPA, Querydsl, Mybatis
-- Spring Webflux, R2DBC
+- Spring, Spring Boot, JDBC, JDBCTemplate, JPA, Querydsl, Mybatis
+- Spring Webflux, R2DBC, R2DBCTemplate, Spring Data R2DBC
 - MySQL, PostgreSQL, Oracle, Redis, Hazelcast
 - Java, Kotlin, Python
 - Docker, Kubernetes
@@ -31,5 +31,5 @@ Contact me
 <br>
 현재 가장 관심있는 기술은 Database 입니다. 최근에는 MySQL의 InnoDB 스토리지 엔진에 대한 책을 읽고 스키마 설계/대용량 쿼리 작성시 주의점 등을 github/velog 등에 꾸준히 정리해오고 있습니다.<br>
 <br>
-주도적으로 계획을 세우고 진행해나가면서 협업할 수 있는 업무/포지션이라면 고민없이 도전해보고 싶습니다.<br>
+**주도적으로** 계획을 세우고 진행해나가면서 협업할 수 있는 업무/포지션이라면 고민없이 도전해보고 싶습니다.<br>
 <br>
