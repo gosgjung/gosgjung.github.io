@@ -4,7 +4,6 @@ author: Tao He
 date: 2022-11-13
 category: Jekyll
 layout: post
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 정리 ㄱㄱ
