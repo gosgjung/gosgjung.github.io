@@ -1,10 +1,10 @@
----
+<!-- ---
 title: Tips, Warnings, and Dangers
 author: Tao He
 date: 2022-06-30
 category: Jekyll
 layout: post
----
+--- -->
 
 The jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
 from [the discord.js website][1].
