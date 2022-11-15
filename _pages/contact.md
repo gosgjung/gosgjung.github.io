@@ -9,7 +9,6 @@ layout: post
 Github, Blog
 - [github.com/gosgjung](https://github.com/gosgjung)
 - [github.com/soon-good](https://github.com/soon-good)
-- [velog.io/@gosgjung](https://velog.io/@gosgjung)
 <br>
 <br>
 
