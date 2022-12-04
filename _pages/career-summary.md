@@ -1,11 +1,11 @@
 ---
 title: Career Summary
-author: Tao He
+author: Soon Good Jung
 date: 2022-12-05
 category: Jekyll
 layout: post
 ---
-<br>
+
 
 총 경력 : 6년차 (5년 5개월)
 
