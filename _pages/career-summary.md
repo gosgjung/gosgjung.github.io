@@ -1,7 +1,7 @@
 ---
 title: Career Summary
 author: Soon Good Jung
-date: 2022-12-05
+date: 2022-11-13
 category: Jekyll
 layout: post
 ---
