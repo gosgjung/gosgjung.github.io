@@ -1,6 +1,6 @@
 ---
 title: Career Summary
-author: Soon Good Jung
+author: Tao He
 date: 2022-12-05
 category: Jekyll
 layout: post
