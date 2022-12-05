@@ -1,7 +1,7 @@
 ---
 title: Career Portforlio (org)
 author: Soon Good Jung
-date: 2022-12-05
+date: 2022-12-06
 category: Jekyll
 layout: post
 ---
