@@ -1,10 +1,10 @@
-<!-- ---
-title: 주요 업무 경험들
+---
+title: 업무 경험들
 author: Soon Good Jung
 date: 2022-12-06
 category: Jekyll
 layout: post
---- -->
+---
 
+123 테스트 
 
-123 테스트... 
