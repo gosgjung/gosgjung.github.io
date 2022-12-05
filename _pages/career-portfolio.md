@@ -1,5 +1,5 @@
 ---
-title: 주요 업무 경험
+title: Career Portfolio
 author: Soon Good Jung
 date: 2022-12-06
 category: Jekyll
